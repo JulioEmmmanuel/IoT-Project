@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Smart ring</string>
+    <string name="boton_vista">Vista en vivo</string>
+    <string name="boton_capturas_movimiento">Capturas de movimiento</string>
+    <string name="boton_capturas_timbre">Capturas de timbre</string>
+    <string name="boton_password">Contraseña</string>
+    <string name="password_instruccion">Cambiar la contraseña</string>
+    <string name="password_send">Aceptar</string>
+    <string name="movText">Capturas de movimiento</string>
+    <string name="timbre_text">Capturas del timbre</string>
+    <string name="vista_text">Vista en vivo</string>
+
+</resources>

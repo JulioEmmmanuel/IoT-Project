@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "363282720441",
+    "firebase_url": "https://timbre-inteligente-b20fd-default-rtdb.firebaseio.com",
+    "project_id": "timbre-inteligente-b20fd",
+    "storage_bucket": "timbre-inteligente-b20fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363282720441:android:665b79326aee681b3edd68",
+        "android_client_info": {
+          "package_name": "com.example.smartring"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363282720441-n6dric2mik23tgr5amgrpi7tcl4ag63p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartring",
+            "certificate_hash": "9b9dde19dab1a0d8c2fc65a3104c3eeae7b108d4"
+          }
+        },
+        {
+          "client_id": "363282720441-5onomhm92dmf3es94mqndmpld0r34ed7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpV_KoOXeo1REvK_k6wvnj_-xSm_YQ4RE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363282720441-5onomhm92dmf3es94mqndmpld0r34ed7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
